@@ -1,0 +1,903 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="vi"
+xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141105728-1"></script>
+<style>/* Styles for the mobile version */
+.lienhe {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.mainbody {
+  margin: 0 10px; /* Adjust the margin value as needed */
+}
+.contact table {
+  /* Existing styles for the table */
+  /* ... */
+  width: 100%;
+  table-layout: fixed;
+}
+
+.contact table td {
+  /* Existing styles for table cells */
+  /* ... */
+  word-wrap: break-word;
+}
+
+.contact table p {
+  /* Existing styles for paragraphs inside the table */
+  /* ... */
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+.call-image {
+    position: fixed;
+    top: 0; /* Position the image at the top of the screen */
+    left: 0;
+    width: 100%;
+    height: 4vh; /* Adjust this as needed */
+    z-index: 9999; 
+    overflow: hidden; /* hide the parts of the img that overflows */
+}
+
+.call-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill; /* Fill the container, potentially changing the image's aspect ratio */
+}
+  .call-image2 {
+    display: block; /* Ensures the image is displayed as a block element */
+    width: 300px; /* Adjust the width as needed */
+    height: 60px; /* Adjust the height as needed */
+    background: url('/uploads/images/banner mo 3.gif') no-repeat center center; /* Replace 'path/to/your/image.png' with the actual path to your image */
+    background-size: contain; /* Ensures the image covers the entire element */
+    position: fixed; /* Positions the image in a fixed position on the screen */
+    bottom: 0; /* Position the image at the bottom of the screen */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; /* Ensures the image appears on top of other elements */
+    border-radius: 10px;
+  }
+}
+@media only screen and (min-width: 601px) {
+ .call-image {
+    display: block;
+    position: fixed;
+    bottom: 60px; /* Position above .call-image2 which has height 60px */
+    right: 0;
+    width: 300px; /* Same width as .call-image2 */
+    height: auto; /* Keep aspect ratio */
+    z-index: 9999;
+}
+
+.call-image img {
+    width: 100%;
+    height: auto;
+}
+
+.call-image2 {
+    display: block;
+    width: 300px;
+    height: 60px;
+    background: url('/uploads/images/banner mo 3.gif') no-repeat center center;
+    background-size: contain;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 9999;
+    border-radius: 10px;
+  }
+}
+</style>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-141105728-1');
+</script>
+<title>Tôn Nhựa Lấy Sáng Chất Lượng Cao: Giá Cạnh Tranh & Hướng Dẫn Lắp Đặt</title>
+<meta name="description" content="Tìm hiểu tấm lợp lấy sáng chất lượng cao, giá cạnh tranh. Khám phá lợi ích, ứng dụng, kích thước, hướng dẫn thi công, kiểu sóng, và chi tiết bảo hành của tấm lấy sáng.">
+<link href="https://tolelight.com.vn/chi-tiet/15/tam-lop-lay-sang.html" rel="canonical" /><meta name="google-site-verification" content="h6tGrelLZ7k8OFzpXkJsOCDKxGChHoGs-y16DY8JuwQ" />
+<meta name="google-site-verification" content="xgZkRTmPS-FeH494yBlk1MKYyXU4W5Gd8y0t2IE0daM" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://tolelight.com.vn/favicon.ico" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://tolelight.com.vn/public/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/nivo-slider/demo/scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/jcarousel/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/jcarousel/jcarousel.responsive.js"></script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/nivo-slider/jquery.nivo.slider.js"></script>
+<script>
+	!window.jQuery && document.write('<script src="https://tolelight.com.vn/public/fancybox/jquery-1.4.3.min.js"><\/script>');
+</script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="https://tolelight.com.vn/public/fancybox/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="https://tolelight.com.vn/public/fancybox/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<link href="https://tolelight.com.vn/css/styles.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://tolelight.com.vn/public/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="https://tolelight.com.vn/public/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://tolelight.com.vn/public/jcarousel/jcarousel.responsive.css" type="text/css" media="screen" />
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".various3").fancybox({
+			'width'				: 800,
+			'height'			: 500,
+			'autoScale'			: false,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+	});
+	$("a[rel=example_group]").fancybox({
+		'transitionIn'		: 'none',
+		'transitionOut'		: 'none',
+		'titlePosition' 	: 'over',
+		'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+			return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+		}
+	});
+</script>
+<script type="text/javascript">
+$(window).load(function() {
+    $('#slide').nivoSlider();
+});
+</script>
+<script>
+$(document).ready(function()
+{
+	$(".sign_in").click(function(){
+		$("#sign_box").show();
+		return false;
+	});
+	$("#an").click(function(){
+		$("#sign_box").hide();
+		return false;
+	});
+});
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39311112-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<a href="tel:0982754515" class="call-image">
+    <img src="/uploads/images/banner2.png" alt="liên hệ để có mẫu thử tôn lấy sáng">
+</a>
+<a class="call-image2" href="tel:0982754515"></a>
+<header id="header"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-24 col-sm-6 col-md-6">
+        <div class="logo">
+          <a href="https://tolelight.com.vn/" title="Nhựa Nam Việt"><img src="https://tolelight.com.vn/images/logo.png" alt="Nhựa Nam Việt"/></a>
+        </div>
+      </div>
+      <div class="col-xs-24 col-sm-18 col-md-18">
+        <div class="bannerRight">
+          <img src="https://tolelight.com.vn/images/banner-top.png" alt="tấm lợp lấy sáng, tôn nhựa Nam Việt" />
+          <div class="lang">
+            <a href="https://tolelight.com.vn/lang/lang.php?lang=vi"><img src="https://tolelight.com.vn/images/vi.jpg" alt="Viet"/></a>
+            <a href="https://tolelight.com.vn/lang/lang.php?lang=en"><img src="https://tolelight.com.vn/images/en.jpg" alt="Anh"/></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+      <div class="col-xs-24 col-sm-24 col-md-24">
+        <div class="bannerthu">
+            <a href="tel:0982754515">
+         <img src="https://tolelight.com.vn/images/mauthu.png" class="img-responsive" alt="tấm lợp lấy sáng và tôn nhựa kháng hóa chất Nam Việt giá rẻ" />
+         </a>
+</div>
+</div>
+</div>
+</header>
+<nav id="menusite">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-24 col-sm-6 col-md-6">
+      </div>
+      <div class="col-xs-24 col-sm-18 col-md-18">
+        <div class="navbar navbar-default">
+          <div class="navbar-header">
+            <div class="mnu">Menu</div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse" id="navbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="https://tolelight.com.vn/">Trang chủ</a></li>
+              <li><a href="https://tolelight.com.vn/gioi-thieu.html"> Giới thiệu</a></li>
+              <li><a href="https://tolelight.com.vn/san-pham.html">Sản phẩm</a></li>
+              <li><a href="https://tolelight.com.vn/ung-dung.html"> Ứng dụng</a></li>
+              <li><a href="https://tolelight.com.vn/tin-tuc.html">Kinh nghiệm</a></li>
+              <li><a href="https://tolelight.com.vn/lien-he.html"> Liên hệ</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav><section id="main">
+  <div class="wraper">
+    <div class="main">
+      <div class="row">
+        <div class="col-xs-24 col-sm-16 col-md-17 col-sm-push-8 col-md-push-7 col">
+          <div class="mainbody">
+            <div class="head">
+              <h3>Sản phẩm</h3>
+              <div class="gach"></div>
+            </div>
+            <div class="content">
+              <h1>Tấm Lợp Lấy Sáng Composite Sợi Thủy Tinh</h1>
+            <div class="detail"><p>
+	<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm lợp lấy sáng <span style="color:#00f;"><strong>TOLELIGHT<sup>&reg;</sup></strong></span> là sự lựa chọn hoàn hảo cho những ai đang tìm kiếm một&nbsp;</span><font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">sản phẩm chất lượng cao, bền đẹp và tiết kiệm chi phí.&nbsp;Sản phẩm được sản xuất trên dây chuyền hoàn toàn tự động từ nhựa polyester không no gia cường sợi thủy tinh chất lượng cao, đảm bảo khả năng truyền sáng cao, đa dạng kiểu sóng, và đạt tiêu chuẩn quốc tế&nbsp;</span></font><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(0, 0, 255);"><strong>ASTM D3841</strong></span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">.</span></p>
+<p>
+	<br />
+	<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;"> Tôn lấy sáng giúp tận dụng ánh sáng tự nhiên tối đa để tạo nên môi trường làm việc hiệu quả và tiết kiệm chi phí điện. Nhựa Nam Việt đã có hơn 10 năm kinh nghiệm trong ngành sản xuất tôn nhựa composite và luôn cho ra đời sản phẩm có chất lượng cao, giá thành hợp lý và dịch vụ hậu mãi chu đáo.</span></font><br />
+	<br />
+	<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Hãy liên hệ với chúng tôi ngay hôm nay để được tư vấn và báo giá tốt nhất!</span></font></p>
+<br />
+<p style="text-align: center;">
+	<img alt="Tấm lợp lấy sáng loại tốt" src="/uploads/images/ton-nhua-lay-sang-loai-nao-tot.jpg" title="Tấm lợp lấy sáng loại tốt" /></p>
+<p style="text-align: center;">
+	<em><span style="font-size: 17px; font-family: verdana, geneva, sans-serif;">Nhà máy <b>Mercedes-Benz Việt Nam</b> sử dụng tole sáng TOLELIGHT<sup>&reg;</sup> Nam Việt</span></em></p>
+<br />
+<p style="text-align: center;">
+	<img alt="Tấm lợp lấy sáng FRP được lợp tại nhà máy tôn Hoa Sen" src="/uploads/images/ton-nhua-lay-sang-lap-tai-nha-may-ton-hoa-sen.jpg" title="Tấm lợp lấy sáng FRP được lợp tại nhà máy tôn Hoa Sen" /></p>
+<p style="text-align: center; padding-top: 3px;">
+	<em><span style="font-size: 17px; font-family: verdana, geneva, sans-serif;">Nhà máy ống nhựa thuộc <b>Tập đoàn Hoa Sen&nbsp;</b>dùng tấm lấy sáng TOLELIGHT<sup>&reg;</sup></span></em></p>
+<br />
+<p style="text-align: center;">
+	<img alt="Tôn lấy sáng sợi thủy tinh composite lợp tại nhà xưởng Hòa Phát" src="/uploads/images/Tam lop lay sang Tolelight Hoa Phat HN.JPG" title="Tôn lấy sáng sợi thủy tinh composite lợp tại nhà xưởng Hòa Phát" /></p>
+<br />
+<p style="text-align: center;">
+	<em><span style="font-size: 17px; font-family: verdana, geneva, sans-serif;">Nhà máy Tập đoàn <b>Hòa Phát</b> dùng tôn sáng Nam Việt</span></em></p>
+<p style="text-align: center;">
+	<img alt="hình ảnh tôn sáng được lợp thực tế" src="/uploads/images/Tôn sáng nhà máy bia.JPG" title="hình ảnh tôn sáng được lợp thực tế" /></p>
+<p style="text-align: center; padding-top: 3px;">
+	<em><span style="font-size: 17px; font-family: verdana, geneva, sans-serif;">Nhà máy <b>Bia Sài Gòn (SABECO)</b> được lợp tôn sáng <b>TOLELIGHT Nam Việt</b></span></em></p>
+<p>
+	<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;"><br />
+	Dưới đây là một số lợi ích của việc sử dụng tôn nhựa lấy sáng:</span></font></p>
+<ul>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Tận dụng ánh sáng tự nhiên tối đa, giúp tiết kiệm chi phí điện.</span><br />
+		</font></li>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Ngăn cản hoàn toàn tia UV, bảo vệ sức khỏe của con người và đồ đạc. </span><br />
+		</font></li>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Sóng tôn nhựa được thiết kế bằng máy CNC nên có thể khớp với tất cả kiểu sóng tôn kẽm.</span></font></li>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Có độ bền cao, chịu được tác động của thời tiết và va đập.</span></font></li>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Đa dạng về màu sắc và độ dày, phù hợp với mọi nhu cầu của khách hàng.</span><br />
+		</font></li>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Giá thành hợp lý, dịch vụ hậu mãi chu đáo.</span></font></li>
+</ul>
+<h2>
+	<b style="color: rgb(0, 0, 255); font-family: verdana, geneva, sans-serif; font-size: 14px;"><u><br />
+	LÝ DO NÊN CHỌN TẤM LỢP TOLELIGHT - CHỨNG CHỈ KIỂM ĐỊNH CHẤT LƯỢNG</u></b></h2>
+<em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">(Nhấn vào tiêu đề để xem)<br />
+<br />
+</span></em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;"> <a href="https://drive.google.com/open?id=1G4jX0hEMGMLoXOKS1c8ZV1PoUGJLXTo9" target="_blank">Catalogue công ty nhựa Nam Việt</a><br />
+<br />
+<a href="https://tolelight.com.vn/uploads/chungnhan/test-uv-tam-lop-lay-sang-tolelight.jpg" rel="nofollow" target="_blank">Kiểm nghiệm chống tia cực tím, tia UV (lượng tia UV xuyên qua là 0%) cấp bởi Trung tâm Kỹ thuật nhựa - cao su và đào tạo quản lý năng lượng (PRET)</a><br />
+<br />
+<a href="https://tolelight.com.vn/uploads/chungnhan/iso-tam-lop-lay-sang-tolelight.jpg" rel="nofollow" target="_blank">Hệ thống quản lý chất lượng ISO 9001:2008</a><br />
+<br />
+<a href="https://tolelight.com.vn/uploads/chungnhan/test-ASTM-SGS-tam-lop-lay-sang-tolelight.jpg" rel="nofollow" target="_blank">Kiểm nghiệm độ bền cơ học cấp bởi Tổ Chức Giám Định Quốc Tế SGS</a><br />
+<br />
+<a href="https://tolelight.com.vn/uploads/chungnhan/test_lao_hoa_nhiet_tam_lop_lay_sang_tolelight.jpeg" rel="nofollow" target="_blank">Kiểm nghiệm lão hóa nhiệt cấp bởi PRET</a><br />
+<br />
+<a href="https://tolelight.com.vn/uploads/chungnhan/test_tinh_chay_tam_lop_lay_sang_tolelight.jpeg" rel="nofollow" target="_blank">Kiểm nghiệm tính cháy cấp bởi SGS</a><br />
+<br />
+Kết quả <a href="https://tolelight.com.vn/uploads/chungnhan/test_do_vong_tam_lop_lay_sang_tolelight.jpeg">t</a><a href="https://tolelight.com.vn/uploads/chungnhan/test_do_vong_tam_lop_lay_sang_tolelight.jpeg" rel="nofollow">hử nghiệm độ võng với tải trọng tĩnh</a>&nbsp;được cấp bởi Trung tâm Kỹ Thuật Tiêu Chuẩn đo lường chất lượng 3 (QUATEST3).<br />
+<br />
+</span>
+<h3>
+	<b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>SO SÁNH VẬT LIỆU SẢN XUẤT TẤM LỢP LẤY SÁNG</u></b></h3>
+<p>
+	<span style="font-size:16px; font-family: verdana, geneva, sans-serif;"><u>Nguồn dữ liệu:<br />
+	</u></span></p>
+<ol>
+	<li>
+		<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;">Engineering ToolBox, (2003). Young&#39;s Modulus or Tensile Modulus alt. Modulus of Elasticity - and Ultimate Tensile and Yield Strength for steel, glass, wood and other common materials. (<a href="https://www.engineeringtoolbox.com/young-modulus-d_417.html">Nguồn</a>)</span></font></li>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Liang Yu, Yan Li, Lu Chen, Chaoyi Kang, Tianyi Zhang (2015) Experimental study on mechanical properties of FRP components and comparison of steel properties.(<a href="https://www.semanticscholar.org/paper/Experimental-study-on-mechanical-properties-of-FRP-Yu-Li/8213ba7c90dbe0e91da06b111d7dbdaa655df519">Nguồn</a>)</span></li>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">William D. Callister Jr, (2000) &quot;Materials Science and Engineering - An Introduction (5th ed.)&quot;, Anti-Corrosion Methods and Materials, Vol. 47 Issue: 1 (<a href="https://www.emerald.com/insight/content/doi/10.1108/acmm.2000.12847aae.001/full/html">Nguồn</a>)</span></li>
+</ol>
+<div dir="ltr" style="margin-left: -1.5pt;">
+	<table style="border: none; border-collapse: collapse;">
+		<colgroup>
+			<col style="text-align: center;" width="179" />
+			<col style="text-align: center;" width="255" />
+			<col style="text-align: center;" width="204" />
+			<col style="text-align: center;" width="0" />
+		</colgroup>
+		<tbody>
+			<tr style="height: 0pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<b><span style="font-size: 13pt; font-family: Arial;">Tiêu chí</span></b></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Composite FRP</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Polycarbonate</b></span></p>
+				</td>
+			</tr>
+			<tr style="height: 0pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Độ cứng</b><br />
+						<em>Mô đun đàn hồi càng cao thì càng cứng</em></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Cao<br />
+						(2.46 x 10<sup>6 </sup>psi)</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Thấp<br />
+						(0.38 x 10<sup>6 </sup>psi)</span></p>
+				</td>
+			</tr>
+			<tr style="height: 0pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Độ bền kéo đứt</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Rất cao<br />
+						(101.8 - 223.7 MPa)</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Trung bình<br />
+						(62.8 - 72.4 MPa)</span></p>
+				</td>
+			</tr>
+			<tr style="height: 51pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Tuổi thọ</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">30 năm</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">15-20 năm</span></p>
+				</td>
+			</tr>
+			<tr style="height: 51pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Kháng hóa chất</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Rất tốt<br />
+						(ổn định trong môi trường acid, bazơ, và muối</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Trung bình<br />
+						(dễ bị rạn, nứt trong một số môi trường)</span></p>
+				</td>
+			</tr>
+			<tr style="height: 51pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Khả năng chịu nhiệt độ cao</b><br />
+						<em>Hệ số giãn nở càng cao càng dễ biến dạng</em></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Tốt<br />
+						(10-20 x10<sup>-6</sup>/K)</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Trung bình<br />
+						(65-70 x10<sup>-6</sup>/K)</span></p>
+				</td>
+			</tr>
+			<tr style="height: 0pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Nguy cơ hư hỏng trước hạn</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Rất thấp</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Trung bình</span></p>
+				</td>
+			</tr>
+			<tr style="height: 0pt;">
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+						<span style="font-size: 13pt; font-family: Arial;"><b>Cách âm</b></span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Tốt</span></p>
+				</td>
+				<td style="border-width: 2.25pt; border-style: solid; border-color: rgb(183, 183, 183); vertical-align: top; padding: 5pt;">
+					<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+						<span style="font-size: 13pt; font-family: Arial;">Kém</span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+	<span style="color: rgb(34, 34, 34); font-family: verdana, geneva, sans-serif; font-size: 16px;">Bên cạnh những ưu điểm vượt trội về khả năng chịu lực, nhựa gia cường sợi thủy tinh còn có thể chịu được nhiệt độ giới hạn rất cao&nbsp;(-60&deg;C - 180&deg;C)&nbsp;rất phù hợp với khí hậu nóng ẩm mưa nhiều như ở Việt Nam. Tôn lấy sáng composite có thể vẫn giữ nguyên được kết cấu, rất khó bị dột, thủng, nứt hay bay màu dưới tác động của thời tiết. Một điểm cộng lớn nữa trong kết cấu&nbsp;sản phẩm là&nbsp;được đóng rắn nguyên khối, đậm đặc nhựa và sợi.</span><br />
+	<br />
+	<span style="color: rgb(34, 34, 34); font-family: verdana, geneva, sans-serif; font-size: 16px;">Có kết cấu chủ yếu là từ nhựa nên tấm tôn sợi thủy tinh&nbsp;nhẹ, dễ vận chuyển và lắp đặt. Điều đó giúp cắt giảm tối đa chi phí cùng đảm bảo tuổi thọ (trung bình 30 năm)&nbsp;của mái trong và sau quá trình thi công. Việc lắp đặt sẽ trở nên dễ dàng và an toàn hơn nhiều.</span></p>
+<p size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+	<span style="color: rgb(34, 34, 34); font-family: verdana, geneva, sans-serif; font-size: 16px;">Được sản xuất dựa trên công nghệ số hóa tự động cùng kỹ thuật đóng rắn, định hình tiên tiến, tole lấy sáng sợi thủy tinh có thể chống tia cực tím và các tác nhân gây hại cho sức khỏe.&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(34, 34, 34);">TOLELIGHT</span><sup style="font-family: verdana, geneva, sans-serif; color: rgb(34, 34, 34);">&reg;</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: rgb(34, 34, 34);"> là giải pháp lấy sáng, chống tia UV cực kì tiết kiệm và hiệu quả.</span></p>
+<h3>
+	<b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>HƯỚNG DẪN THI CÔNG LẮP ĐẶT TẤM LỢP LẤY SÁNG</u></b></h3>
+<p>
+	<u><strong><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Phần mái:</span></strong></u></p>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Với sản phẩm tấm lợp lấy sáng sợi thủy tinh nên chọn vít tạo ren có ron cao su khi thi công. Điều này giúp tránh được tình trạng rò rỉ nước đầu vít trong quá trình sử dụng. Nên chọn vít có độ dài phù hợp với độ dày&nbsp;từng&nbsp;tấm tôn và xà gồ. Cùng với đó, nên lợp theo quy tắc âm dương&nbsp;(sóng nhỏ chồng lên trên sóng lớn)&nbsp;để đảm bảo thẩm mỹ và độ bền của mái.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Bạn nên lựa chọn kiểu sóng tôn sáng tùy vào độ dốc của mái công trình thi công. Độ dốc càng thấp thì tấm tôn nhựa phải có độ rộng sóng âm càng cao để thoát nước nhanh và tránh rủi ro. Thường thì độ rốc mái được khuyến khích là&nbsp;trong khoảng từ 10 - 15%.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Hãy sử dụng khoảng cách xà gồ trong khoảng từ 800mm - 1200mm để đảm bảo an toàn. Nhớ rằng sóng biên của tấm lợp FRP được đặt bên trên sóng biên của tôn kẽm để chống nước và bụi bẩn có thể rơi vào.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Tấm lấy sáng nên được lợp từ nóc xuống, nằm trên&nbsp;bởi hệ số giãn nở vì nhiệt của sản phẩm cao hơn&nbsp;tôn kim loại.</span></li>
+</ul>
+<p style="text-align: center;">
+	<img alt="Cách thi công lắp đặt tấm lợp lấy sáng" src="/uploads/images/cach-thi-cong-tam-tole-lay-sang.jpg" title="cách thi công lắp đặt tấm lợp lấy sáng" /></p>
+<p style="text-align: center;">
+	<em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tôn nhựa lấy sáng LockSeam được lợp bên trên tôn kẽm<br />
+	</span></em></p>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Khi thi công nơi vùng thường xuyên xảy ra bão, giông lốc, thời tiết cực đoan,... chúng tôi&nbsp;khuyến cáo khách hàng sử dụng ke chống bão nơi đầu vít hoặc sử dụng các biện pháp chống bão (chi tiết được hướng dẫn kỹ trong tài liệu &quot;Hướng Dẫn Sử Dụng&quot; Nhựa Nam Việt cung cấp khi các bạn mua sản phẩm).</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Để cố định tấm lợp, bạn&nbsp;nên bắn mồi và dùng&nbsp;vít chuyên dụng cho tấm nhựa&nbsp;lấy sáng (có đầu vít và gioăng cao su to), ke chống bão sẽ đảm bảo thi công chắc chắn, an toàn hơn.</span></li>
+</ul>
+<p style="text-align: center;">
+	<img alt="Vít và rôn chuyên dụng để lợp tấm lấy sáng" src="/uploads/images/vit-va-ron-tam-lay-sang-composite.jpg" title="Vít và rôn chuyên dụng để lợp tấm lấy sáng" /></p>
+<p style="text-align: center;">
+	<em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Ron và vít chuyên dụng để lợp tole nhựa. Gioăng Dekseal 25mm và vít #12-14 - 55mm (khả năng khoan: 6mm)<br />
+	</span></em></p>
+<p>
+	<u><strong><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Phần vách:</span></strong></u></p>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tùy vào nhu cầu lấy sáng nhiều hay ít mà bạn có thể đặt tôn theo thiết kế được khuyến khích từ nhà sản xuất.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Nếu bạn muốn lấy ánh sáng bên vách, tôn nhựa lấy sáng sẽ có phần khác biệt hơn ở chỗ quy cách sóng tôn bị giới hạn. Thông thường thì những sóng có chiều cao dưới 40mm, không phải dạng Seamlock, Kliplock hay Metklip. Dạng sóng được khuyến khích sử dụng là 5, 9 sóng vuông và cách thi công sản phẩm cũng sự khác biệt so với phần mái.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Thường ở phần vách, hai sóng biên tôn sáng được đặt phía dưới hai sóng biên của tôn kim loại và vít được bắt ở phần bụng âm của sóng tôn, khác so với tấm lợp nhựa cho phần mái.</span></li>
+</ul>
+<h3>
+	<b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>LỢI ÍCH VÀ ƯU ĐIỂM CỦA TẤM LỢP LẤY SÁNG COMPOSITE</u></b></h3>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm tole lấy sáng TOLELIGHT<sup>&reg;</sup> <b>cản 99.9% lượng tia cực tím (tia UV)</b>, nguyên nhân chính gây ung thư hắc tố da (<em>xem kết quả Test ở mục 2 phía trên</em>).</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Sản phẩm cho lượng lớn ánh sáng tự nhiên đi vào bên trong công trình, vì thế giảm phần lớn chi phí sử dụng điện. Nghiên cứu cho thấy lượng <b>điện năng tiêu thụ giảm đến 30%</b> khi sử dụng tôn nhựa (<a href="https://tolelight.com.vn/chi-tiet-tin/35/tiet-kiem-dien-hieu-qua-voi-tam-lop-lay-sang-soi-thuy-tinh-nghien-cuu-cua-cac-nha-khoa-hoc-duc.html">xem nghiên cứu</a>). Ngoài ra TOLELIGHT còn được bổ sung hợp chất đặc biệt để duy trì độ truyền sáng cao trong thời gian dài.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Khả năng <strong>khuếch tán và phân tán ánh sáng cao</strong> hơn tấm lợp poly, pvc nên tôn sáng sợi thủy tinh phân bổ ánh sáng <strong>đều hơn, rộng hơn</strong> và mang đến những lợi ích sau:</span>
+		<ul>
+			<li>
+				<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tăng diện tích được chiếu sáng.</span></li>
+			<li>
+				<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Khắc phục hiện tượng bị chói sáng, lóa mắt.</span></li>
+			<li>
+				<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Lượng ánh sáng hài hòa dễ chịu hơn với mắt người nhìn.</span></li>
+		</ul>
+	</li>
+</ul>
+<p style="text-align: center;">
+	<img alt="So sánh độ truyền sáng các loại tấm lợp lấy sáng" src="/uploads/images/bang-bao-gia-ton-nhua-lay-sang-composite.jpg" title="So sánh độ truyền sáng các loại tấm lợp lấy sáng" /></p>
+<p style="text-align: center;">
+	<em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Bên trái là tôn lấy sáng sợi thủy tinh, bên phải là các loại tấm lấy sáng khác<br />
+	</span></em></p>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Hệ số dẫn nhiệt thấp, cách nhiệt, cách âm tốt giúp chống nóng, chống ồn và tạo môi trường làm việc dễ chịu, cắt giảm chi phí sử dụng điều hòa. Vật liệu composite FRP cũng cách âm tốt hơn polycarbonate, giảm tiếng ồn khi trời mưa đến 60%. (<i>Xem bảng so sánh các loại nhựa ở trên</i>).</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm lợp lấy sáng TOLELIGHT<sup>&reg;</sup> được sấy khô và tạo sóng trong buồng sấy chuyên dụng dưới sự giám sát chặt chẽ của nhân viên vận hành và QC, nên sản phẩm có hệ nhựa thẩm thấu đều sợi giúp giảm tối đa bọt khí, phô sợi, tăng độ trong suốt và không bị ngả vàng. Qui trình kiểm soát kĩ lưỡng đảm bảo thành phẩm có chi tiết sóng đồng nhất, chất lượng từng lô ổn định.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Với ưu thế chống ăn mòn của vật liệu FRP, nền nhựa resin chất lượng cao, sợi thủy tinh cao cấp, và <b>màng Film BoPET</b> (màng phim định hướng hai chiều polyethylene terephthalate) dính chặt 2 mặt tăng độ bền, ngăn cản việc thấm nước; sản phẩm có khả năng chịu nhiệt, chống ăn mòn tốt; tuổi thọ và kháng lão hóa cao (<a href="https://tolelight.com.vn/uploads/chungnhan/test_lao_hoa_nhiet_tam_lop_lay_sang_tolelight.jpeg">chứng chỉ</a>). Bề mặt hai bên trơn láng, căng đều giúp sản phẩm có khả năng tự làm sạch và ngoại quan đẹp.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Đa dạng kiểu sóng (gần 200 kiểu mẫu), chiều dài, khổ rộng và độ dày, tole lấy sáng composite của Nhựa Nam Việt được sản xuất để phù hợp với gần như tất cả kiểu sóng của tôn kim loại. Bên cạnh đó, chúng tôi cũng đáp ứng nhu cầu tấm lấy sáng dạng phẳng của các bạn với đặc tính kỹ thuật tương đương.</span></li>
+</ul>
+<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Quy cách tôn lấy sáng thông dụng:</span><br />
+<ul>
+	<li>
+		<span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;"><strong>Độ dày:</strong> Từ 0.75mm, 0.8mm, 1mm, 1.2mm, 1.5mm, 2mm, 2.5mm, 3mm, 4mm cho tôn nhựa dạng sóng, đối với tấm lợp lấy sáng dạng phẳng độ dày có thể lên đến 6mm.</span></span></li>
+	<li>
+		<span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;"><strong>Khổ rộng phổ biến:</strong> 1.07m, 1.1m, 1.14m, 1.22m, 1.52m, 1.82m, 2.1m.</span></span></li>
+	<li>
+		<span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;"><strong>Chiều dài:</strong> cắt tùy ý theo yêu cầu khách hàng đối với tấm lợp dày từ 1.5mm trở lên (2m, 2.4m, 3m, 6m, 12m, 20m, 30m, 40m, 50m), dưới 1.5mm tùy vào kiểu sóng. Thực tế chiều dài tối đa phụ thuộc vào phương tiện vận chuyển, thông thường là 16m.</span></span></li>
+	<li>
+		<span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;"><strong>Hữu dụng:</strong> 406mm, 420mm, 1000mm, 1100mm,... tùy quy cách.</span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Độ cứng và độ bền kéo của nhựa Composite rất cao, độ bền kéo tương đương với thép Q235 và vượt trội hoàn toàn so với nhựa polycarbonate, pvc hay upvc <a href="https://tolelight.com.vn/chi-tiet/16/tam-lop-khang-hoa-chat.html">(so sánh nhựa Composite và PVC)</a>, không bị biến dạng sau khi giẫm đạp, giá bán rẻ hơn và chi phí bảo dưỡng thấp. Vật liệu Composite là lựa chọn phù hợp để thay thế thép lá nhẹ truyền thống (<a href="https://tolelight.com.vn/chi-tiet-tin/33/nghien-cuu-so-sanh-do-ben-cua-thep-va-nhua-gia-cuong-soi-thuy-tinh-(frp).html">Nghiên Cứu So Sánh Độ Bền của Thép và Nhựa Gia Cường Sợi Thủy Tinh</a></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Ánh sáng tự nhiên ngoài giúp tiết kiệm năng lượng tiêu thụ, còn làm giảm sự nóng lên toàn cầu từ các năng lượng tiêu thụ được cắt giảm.</span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Một số <strong>kiểu sóng tôn nhựa lấy sáng</strong> phổ biến:</span></li>
+</ul>
+<h3>
+	<b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>KÍCH THƯỚC TẤM TÔN NHỰA LẤY SÁNG COMPOSITE</u></b></h3>
+<span style="font-family:verdana,geneva,sans-serif; font-size:16px">Tấm tôn nhựa lấy sáng Composite có nhiều kích thước, hình dáng khác nhau, tùy vào nhu cầu của người dùng. Hiện nay, tôn nhựa lấy sáng Tolelight cung cấp sản phẩm trên thị trường Hà Nội và hầu khắp các tỉnh trên cả nước với nhiều thiết kế khác nhau. Cụ thể với độ dày và chiều dài:<br />
+<br />
++ Độ dày tôn tùy chọn với các kích cỡ: 0.6mm, 0.8mm, 1.0mm, 1.2mm, 1.5mm, 2.0mm, 2.5mm, 3.0mm.<br />
+<br />
++ Chiều dài tấm tôn tùy chọn với kích thước: 2m, 2.4m, 3m.<br />
+<br />
+Tôn nhựa lấy sáng Composite hiện đang có 2 dạng thiết kê chính là: tôn nhựa lấy sáng phẳng và tole nhựa lấy sáng lượn sóng. Người dùng có thể lựa chọn sản phẩm với nhiều màu sắc khác nhau như: màu trong suốt pha mờ, màu trắng đục cảo, màu xanh nước biển mờ, màu xanh nước biển caro&hellip;</span>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Sóng công nghiệp: 4 sóng Kliplock (cliplock), 2 sóng Seamlock, Metklip, Metdock, V Seam, Peblock, Pebseam, LokSeam</span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Độ truyền sáng tham khảo:</span> </span>
+		<ul>
+			<li>
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;">Trắng trong: 85%</span></span></span></li>
+			<li>
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;">Xanh ngọc: 73%</span></span></span></li>
+			<li>
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;">Trắng đục: 46%</span></span></span></li>
+			<li>
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px;"><span style="font-family:verdana, geneva, sans-serif;">Xanh dương: 41%</span></span></span></li>
+		</ul>
+	</li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Màu sắc được sử dụng nhiều: trắng trong (Limpid), trắng đục (Opal) và xanh ngọc (Crystal Green),...</span></span></li>
+</ul>
+<p style="text-align: center;">
+	<img alt="Tấm lợp lấy sáng màu trắng trong" src="/uploads/images/tam-lay-sang-composite-mau-trang-trong.jpg" title="Tấm lợp lấy sáng màu trắng trong" /></p>
+<p style="text-align: center;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm lợp lấy sáng màu trắng trong</span></em></span></p>
+<p style="text-align: center;">
+	<img alt="Tôn lấy sáng màu trắng đục" src="/uploads/images/tam-lop-lay-sang-composite-mau-trang-duc.jpg" title="Tôn lấy sáng màu trắng đục" /></p>
+<p style="text-align: center;">
+	<font face="verdana, geneva, sans-serif"><span style="font-size: 16px;"><i>Tole lấy sáng màu composite&nbsp; trắng đục</i></span></font></p>
+<p style="text-align: center;">
+	<img alt="Tole lấy sáng màu xanh ngọc" src="/uploads/images/ton-nhua-lay-sang-mau-xanh-ngoc.jpg" title="Tole lấy sáng màu xanh ngọc" /></p>
+<p style="text-align: center;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Trắng trong</span></em></span></p>
+<p style="text-align: center;">
+	<img alt="cường độ màu trắng trong tôn nhựa lấy sáng sợi thủy tinh" src="/uploads/images/ton-nhua-lay-sang-trang-trong-xep-chong.jpg" title="cường độ màu trắng trong tôn nhựa lấy sáng sợi thủy tinh" /></p>
+<p style="text-align: center;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><em><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Cường độ màu trắng trong tôn nhựa lấy sáng sợi thủy tinh</span></em></span></p>
+<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><br />
+</span>
+<h3>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>ỨNG DỤNG CỦA TÔN LẤY SÁNG</u></b></span></h3>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm lợp lấy sáng thông minh composite thường được sử dụng trong các công trình công nghiệp và dân dụng cần nhiều ánh sáng tự nhiên như:</span></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">- Vườn ươm, nhà trồng rau sạch..<br />
+	- <a href="https://tolelight.com.vn/chi-tiet-ung-dung/7/nha-phoi-gach-gom-su.html">Nhà phơi gạch</a>, nông sản...<br />
+	- Nhà xưởng, kho hàng....<br />
+	- Giếng trời, mái vòm (độ cong đảm bảo), mái hiên....<br />
+	- <a href="https://tolelight.com.vn/chi-tiet-ung-dung/6/nha-thep-tien-che.html">Nhà thép tiền chế</a>, <a href="https://tolelight.com.vn/chi-tiet-ung-dung/1/nha-ket-cau-thep.html">nhà kết cấu thép</a>.<br />
+	- Nhà để xe, giàn dây leo sân vườn, cổng vòm, tấm chắn, nhà nông trại.<br />
+	- Chúng tôi cũng đáp ứng các nhu cầu đặc biệt như: lam gió, máng xối, úp nóc, tấm chắn nước, mái hắt,...</span></span></p>
+<p style="text-align: justify;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">TOLELIGHT được thiết kế để phù hợp với tất cả hệ thống mái, vách của các công trình kiến trúc. Ngoài ra tôn sáng có khối lượng nhẹ nên dễ dàng lắp đặt, thi công hay tạo hình theo ý muốn (cưa cắt, uốn, bẻ cong) nhanh chóng.<br />
+	<br />
+	Ngoài lợi ích về kinh tế, rất nhiều nghiên cứu đã chứng minh ánh sáng tự nhiên giúp tăng hiệu quả làm việc, năng suất lao động, giảm stress và cải thiện sức khỏe (cung cấp vitamin D). Vì thế chính phủ Anh đã qui định nguồn sáng ở tất cả nơi làm việc bắt buộc phải có một phần là ánh sáng từ thiên nhiên. (theo Bộ Sức khỏe và An toàn Vương quốc Anh (HSE).</span></span></p>
+<h3>
+	<b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>TẤM LỢP LẤY SÁNG COMPOSITE</u></b></h3>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Tấm lợp lấy sáng</strong>&nbsp;Composite (còn gọi là&nbsp;<strong>tôn nhựa lấy sáng</strong>&nbsp;hay tole lấy sáng) là tấm lợp làm từ nhựa, có độ trong cho ánh sáng mặt trời truyền vào. Tấm lấy sáng sợi thủy tinh này là vật tư rất phổ biến nhờ vào những tiện ích mà nó mang lại: tiết kiệm điện năng, chống ăn mòn, chống nóng, giảm tiếng ồn đáng kể... và đặc biệt là cách điện. Không chỉ vậy, nhờ có thể truyền dẫn ánh sáng tự nhiên mà nó còn giúp cho con người hấp thụ Vitamin D, dễ chịu và có thể tăng hiệu suất công việc (<a href="https://tolelight.com.vn/chi-tiet-tin/36/nghien-cuu-cho-thay-anh-sang-tu-nhien-giup-lam-giam-nguy-co-bi-ung-thu-vu-ung-thu-tuyen-tien-liet-va-nhieu-loi-ich-khac.html">xem nghiên cứu</a>).</span></p>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Tôn nhựa lấy sáng Composite</strong> hiện đang có 2 dạng thiết kế chính là: tôn nhựa lấy sáng phẳng và tôn nhựa lấy sáng dạng sóng. Người dùng có thể lựa chọn sản phẩm với nhiều màu sắc khác nhau như: màu trong suốt pha mờ, màu trắng đục caro, màu xanh nước biển mờ, màu xanh nước biển caro&hellip; Tấm lợp được làm từ chất&nbsp;liệu Composite FRP&nbsp;phổ biến ở hầu hết các nước phương Tây, đặc biệt là Bắc Mỹ và châu Úc. Các chuyên gia, sản phẩm nàylà một sự lựa chọn đúng đắn, hợp lý cho người dùng hiện nay bởi hàng loạt các ưu điểm nổi bật phải kể đến hiện nay:</span></p>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Lấy sáng hiệu quả:</strong>&nbsp;Tôn nhựa lấy sáng sợi thủy tinh có cấu trúc trong nên dễ dàng cho ánh sáng truyền vào gần như hoàn toàn. Vì vậy, khi sử dụng sản phẩm này, công trình sẽ có đủ ánh sáng cần thiết một cách nhanh chóng. Từ đó giảm số lượng tấm lấy sáng cần lắp đặt giúp tiết kiệm chi phí</span><span style="font-family:verdana,geneva,sans-serif; font-size:16px">&nbsp;mà không làm ảnh hưởng đến khả năng che chắn.</span></li>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Đa dạng về màu sắc:</strong> Ngoài ra, để đáp ứng nhu cầu đa dạng từ khách hàng, hiện nay sản phẩm có nhiều màu sắc, thiết kế khác nhau. Người dùng cũng có thể đặt hàng sản phẩm theo thiết kế, ý tưởng riêng của bản thân.</span></li>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Chống tia UV, cách điện hoàn toàn:</strong> Với thành phần chứa nhiều các hợp chất hóa học cổ định nhiệt, có khả năng chống tia UV, tia cực tím và cách điện hoàn toàn. Theo đó, tấm lợp composite có khả năng ổn định nhiệt độ tốt từ -30 độ C cho đến 120 độ C. Điều này vừa giúp bảo vệ sức khỏe con người vừa bảo quản tốt các thiết bị bên trong bởi các tác động từ bên ngoài.</span></li>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Dễ dàng vệ sinh:</strong> Sản phẩm tôn lợp Composite có bề mặt mịn nên không bám bụi, bám sương đồng thời ngăn chặn hơi nước ngưng tụ. Vì vậy, sản phẩm đảm bảo tính thẩm mỹ cao, dễ dàng lau dọn, vệ sinh.</span></li>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Khả năng chịu áp lực lực tốt, tuổi thọ cao:</strong> Ưu điểm nổi bật của sản phẩm là có khả năng chịu áp lực cao do được làm từ các hợp chất chất không phản ứng với các loại axit hay kiềm bên ngoài môi trường nên hoàn toàn không bị ảnh hưởng bởi yếu tố thời tiết. Chính bởi điều này mà sản phẩm được sử dụng phổ biến tại các công trình ven biển.</span></li>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong>Thi công đơn giản:</strong> Tấm lợp Tolelight dễ dàng uốn cong, tạo hình. Ngoài ra, với trọng lượng nhẹ giúp quá trình vận chuyển thi công đơn giản, nhanh chóng hơn. Đặc biệt, với những công trình cao tầng, đây ưu điểm nổi bật của sản phẩm so với sản phẩm khác trên thị trường. Có thể nói, sản phẩm tôn nhựa lấy sáng Composite là sản phẩm có độ bền cao, an toàn nhưng lại có giá thành xếp vào loại rẻ nhất hiện nay. Vì vậy, đây là sự lựa chọn tối ưu cho mọi công trình.</span></li>
+</ul>
+<p>
+	<span style="color:rgb(34, 34, 34); font-family:verdana,geneva,sans-serif; font-size:16px">Hơn nữa, do được sản xuất trong nước nên&nbsp;</span><span style="color:rgb(34, 34, 34); font-family:verdana,geneva,sans-serif; font-size:16px">tấm tôn nhựa lấy sáng giá rẻ hơn nhất so với các mặt hàng ngoại nhập, nhưng vẫn đảm bảo chất lượng tương đương và đáp ứng mọi tiêu chuẩn khắt khe nhất.</span></p>
+<h2>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 16px;"><u>BÁO GIÁ TẤM LỢP LẤY SÁNG</u></b></span></h2>
+<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Tôn nhựa lấy sáng giá bao nhiêu luôn là vấn đề được quan tâm hàng đầu trong tiêu chí lựa chọn sản phẩm.&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Theo các chuyên gia kỹ thuật, giá sản phẩm khá bình dân, phù hợp với điều kiện kinh tế của hầu hết người tiêu dùng.<br />
+<br />
+Tùy theo thiết kê, giá tấm lấy sáng sẽ có sự chênh lệch tùy thuộc vào kết cấu, nguyên liệu và từng cơ sở sản xuất, phân phối sản phẩm. Theo đó, những sản phẩm có độ dày lớn, thiết kế kiểu sóng đặc biệt,... thì giá thành sẽ nhỉnh hơn.</span><br />
+<p style="text-align: center;">
+	<img alt="giá cả chi phí tấm lợp lấy sáng có xứng đáng?" src="/uploads/images/bao-gia-tam-lop-lay-sang-composite.jpg" title="Báo giá tấm lợp lấy sáng composite" /></p>
+<p>
+	<span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Người dùng cũng có thể đặt sản phẩm của&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">TOLELIGHT</span><sup style="font-family: verdana, geneva, sans-serif;">&reg;&nbsp;</sup><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">theo số hotline 0982 754 515 để được bảng báo giá tôn nhựa lấy sáng sợi thủy tinh&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">chi tiết cùng nhiều ưu đãi hấp dẫn.&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 16px;">Hoặc bạn cũng có thểu liên hệ hai chi nhánh sau để nhận báo giá tốt nhất:</span></p>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;"><a href="https://tolelight.com.vn/lien-he.html">Chi nhánh Hà Nội</a></span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;"><a href="https://tolelight.com.vn/lien-he.html">Chi nhánh TP Hồ Chí Minh</a></span></span></li>
+</ul>
+<h4>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 12px;"><u>DIỆN TÍCH LỢP TOLE LẤY SÁNG TỐI THIỂU</u></b></span></h4>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Một yếu tố quan trọng khi thiết kế các công trình kiến trúc là tính toán diện tích tấm lợp lấy sáng cần lợp. Nam Việt xin giới thiệu khuyến cáo của các nhà khoa học Anh về vấn đề này. (Nguồn:&nbsp;<em>Cơ quan y tế quốc gia Anh</em>)<br />
+	<br />
+	Trước hết, các chuyên gia khuyên rằng nên tính diện tích lợp dựa theo mục đích sử dụng của nơi cần lợp, hay nói cách khác là dựa theo lượng ánh sáng tự nhiên cần thiết để đảm bảo chức năng của công trình phát huy hiệu quả. Để tính lượng ánh sáng người ta dùng đại lượng &quot;Độ rọi&quot; được đo bằng đơn vị Lux. Sau đây là danh sách độ rọi sáng cần thiết ở một số địa điểm:<br />
+	</span></span></p>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Nơi đông người, các công việc không yêu cầu phải nhìn chi tiết (một số kiểu nhà kho, cửa hàng nhỏ, chỗ nghỉ ở quầy lễ tân): 200 Lux.</span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Các công việc cần chiếu sáng có mức độ khó vừa phải (khu vực cửa hàng hay nơi sản xuất nói chung): 500 Lux.</span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Các công việc cần chiếu sáng có mức độ khó cao, yêu cầu phải phân biệt màu sắc, đánh giá, xử lý tình huống nhanh (cửa hàng quần áo, đồ nội thất, trung tâm, sân vận động thi đấu thể dục thể thao): 1000 Lux.</span></span></li>
+</ul>
+<ul>
+	<li>
+		<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Công việc yêu cầu phải quan sát chính xác, tỉ mỉ nhiều chi tiết phức tạp (khu vực sản xuất, chế tạo có nhiều máy móc, thiết bị kĩ thuật; xưởng sản xuất đồ thủ công mỹ nghệ): 2000 Lux.<br />
+		</span></span></li>
+</ul>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Bảng tổng hợp:<br />
+	<em>(Áp dụng đối với tôn lấy sáng màu trắng trong)<br />
+	</em></span></span></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Độ rọi (lượng ánh sáng)</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><strong><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Số lượng tôn nhựa cần lợp</span></strong></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">100-200 Lux</span></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">ít nhất 10% tổng diện tích mái</span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">300 Lux</span></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">13%</span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">500 Lux</span></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">15%</span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">750 Lux</span></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">17%</span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">1000+ Lux</span></span></td>
+			<td style="text-align: center;">
+				<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">20%</span></span></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Số liệu trên chỉ mang tính tham khảo, tỉ lệ thực tế có thể thay đổi tùy theo môi trường sử dụng riêng biệt, độ truyền sáng của tôn sáng,...</span></span></p>
+<h3>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><b style="color:#00f; font-family: verdana, geneva, sans-serif; font-size: 14px;"><u>BẢO HÀNH TÔN NHỰA LẤY SÁNG</u></b></span></h3>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Tấm lấy sáng <a href="https://tolelight.com.vn/"><strong>TOLELIGHT</strong></a><sup>&reg;</sup> là một sản phẩm cao cấp của nhựa Nam Việt, được bảo hành đến 15 năm.</span></span></p>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Sau hơn 10 năm hoạt động, Nam Việt đã trở thành thương hiệu uy tín bậc nhất tại Việt Nam. Chúng tôi cám ơn sự tin tưởng và ủng hộ của rất nhiều tập đoàn, công ty và người dân trong suốt thời gian qua. Nam Việt cam kết luôn cố gắng và phấn đấu không ngừng để đem đến các sản phẩm tốt nhất với giá cả hợp lý, luôn luôn phục vụ khách hàng với phương châm:<br />
+	</span></span></p>
+<p style="text-align: center;">
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><em><span style="font-size:17px; font-family: verdana, geneva, sans-serif;">&quot;Niềm tin của các bạn là thành công của chúng tôi.&quot;</span></em></span></p>
+<p>
+	<span style="font-family:verdana,geneva,sans-serif; font-size:16px"><span style="font-size:16px; font-family: verdana, geneva, sans-serif;">Sản phẩm được phân phối rộng rãi trên toàn quốc và thiết kế theo yêu cầu của khách hàng. Để đảm bảo quá trình thi công lắp đặt được hiệu quả và an toàn, vui lòng liên hệ để được tư vấn chi tiết, tận tình.</span></span></p>
+</div>
+              <div class="otherdetail">
+                <h3>Các sản phẩm khác</h3>
+                <ul>
+                                        <li><a href="https://tolelight.com.vn/chi-tiet/19/chau-hoa.html" >Chậu Hoa</a></li>
+                                        <li><a href="https://tolelight.com.vn/chi-tiet/18/thung-rac.html" >Thùng Rác</a></li>
+                                        <li><a href="https://tolelight.com.vn/chi-tiet/17/ghe.html" >Ghế</a></li>
+                                        <li><a href="https://tolelight.com.vn/chi-tiet/16/tam-lop-khang-hoa-chat.html" >TẤM LỢP KHÁNG HÓA CHẤT</a></li>
+                                      </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-24 col-sm-8 col-md-7 col-sm-pull-16 col-md-pull-17">
+          <div id="left">
+    <div class="box-left">
+        <h3>Danh mục sản phẩm</h3>
+        <div class="box-content"
+        style="
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                grid-gap: 5px;
+                "
+        >
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet/16/tam-lop-khang-hoa-chat.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px;    border-radius: 5px;  display: block">
+                        <img style="width: 100%; height: 93px;    border-radius: 5px;" src="https://tolelight.com.vn/uploads/tôn nhựa composite.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet/16/tam-lop-khang-hoa-chat.html">Tôn Chống Ăn Mòn</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet/17/ghe.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px;    border-radius: 5px;  display: block">
+                        <img style="width: 100%; height: 93px;    border-radius: 5px;" src="https://tolelight.com.vn/uploads/chair O.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet/17/ghe.html">Ghế</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet/19/chau-hoa.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px;    border-radius: 5px;  display: block">
+                        <img style="width: 100%; height: 93px;    border-radius: 5px;" src="https://tolelight.com.vn/uploads/chậu hoa composite.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet/19/chau-hoa.html">Chậu Hoa</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet/15/tam-lop-lay-sang.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px;    border-radius: 5px;  display: block">
+                        <img style="width: 100%; height: 93px;    border-radius: 5px;" src="https://tolelight.com.vn/uploads/tam lop composite tolelight.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet/15/tam-lop-lay-sang.html">Tấm Lợp Lấy Sáng</a>
+                </div>
+                        </div>
+    </div>
+    <div class="box-left">
+        <h3>Kinh nghiệm</h3>
+        <div class="more"><a href="https://tolelight.com.vn/tin-tuc.html">Xem tất cả kinh nghiệm</a></div>
+        <div class="box-content">
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet-tin/43/thiet-ke-va-vat-lieu-lop-mai-tot-nhat-cho-nha-mang-nha-kinh-trong-rau.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px; display: block; border-radius: 5px;">
+                        <img style="width: 100%; height: 150px; border-radius: 5px;" src="https://tolelight.com.vn/uploads/images/nhakinhtrongrau.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; font-size:14.5px; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet-tin/43/thiet-ke-va-vat-lieu-lop-mai-tot-nhat-cho-nha-mang-nha-kinh-trong-rau.html">Thiết Kế và Vật Liệu Lợp Mái Tốt Nhất Cho Nhà Màng, Nhà Kính Trồng Rau</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet-tin/42/su-dung-tam-lop-lay-sang-giup-giam-chi-phi-hoat-dong-den-33.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px; display: block; border-radius: 5px;">
+                        <img style="width: 100%; height: 150px; border-radius: 5px;" src="https://tolelight.com.vn/uploads/images/anh minh hoa tiet kiem nang luong.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; font-size:14.5px; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet-tin/42/su-dung-tam-lop-lay-sang-giup-giam-chi-phi-hoat-dong-den-33.html">Sử Dụng Tấm Lợp Lấy Sáng Giúp Giảm Chi Phí Hoạt Động Đến 33%</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet-tin/41/ban-co-chac-cong-trinh-da-lay-sang-hieu-qua.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px; display: block; border-radius: 5px;">
+                        <img style="width: 100%; height: 150px; border-radius: 5px;" src="https://tolelight.com.vn/uploads/phan phoi anh sang 2.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; font-size:14.5px; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet-tin/41/ban-co-chac-cong-trinh-da-lay-sang-hieu-qua.html">Bạn Có Chắc Công Trình Đã Lấy Sáng Hiệu Quả?</a>
+                </div>
+                                <div>
+                    <a href="https://tolelight.com.vn/chi-tiet-tin/40/so-sanh-kha-nang-chong-an-mon-cua-cac-loai-vat-lieu.html" class="thumb" style="    border: 1px #dcdbdb solid;padding: 2px; display: block; border-radius: 5px;">
+                        <img style="width: 100%; height: 150px; border-radius: 5px;" src="https://tolelight.com.vn/uploads/tôn nhựa ảnh nhỏ.jpg"/>
+                    </a>
+                    <a style="text-align: center; color: blue; font-weight: 600; font-size:14.5px; display: inherit;    margin: 15px auto;" class="title" href="https://tolelight.com.vn/chi-tiet-tin/40/so-sanh-kha-nang-chong-an-mon-cua-cac-loai-vat-lieu.html">So Sánh Khả Năng Chống Ăn Mòn của Các Loại Vật Liệu</a>
+                </div>
+                        </div>
+    </div>
+    <div class="box-left">
+        <h3>Video</h3>
+        <div class="box-content">
+            <iframe width=267 height=196 src="https://www.youtube.com/embed/b-8ec1ZKfRE?autoplay=0" frameborder="0" allowfullscreen></iframe>        </div>
+    </div>
+    <div class="box-left">
+        <h3>Đối tác</h3>
+        <div class="box-content">
+            <ul>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/logo_atad.png"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/kirbi.jpg"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/logo_daidung.png"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/download__4_.jpg"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/download__3_.jpg"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/download__1_.jpg"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/Logo_Tr___Vi___t_Steel_1.jpg"/></a></li>
+                                <li><img src="https://tolelight.com.vn/uploads/doitac/download.jpg"/></a></li>
+                            </ul>
+        </div>
+    </div>
+</div>        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-24">
+          <div class="footerOther">
+    <div class="row">
+        <div class="col-xs-24 col-sm-18 col-md-18">
+            C&ocirc;ng ty TNHH TM-SX Nhựa Nam Việt<br />
+Nh&agrave; M&aacute;y: Ấp 1, X&atilde; Phước Lợi, Huyện Bến Lức, Tỉnh Long An
+<br />
+TPHCM:&nbsp; &nbsp;(028) 3752 7088 -&nbsp;Số 1-3, Đường 2D, KDC Nam Hùng Vương, Phường An Lạc, Quận Bình Tân<br />
+Hà Nội:&nbsp; &nbsp; &nbsp;(024) 3681 6066 -&nbsp;Số 86, Ngõ 83, Đường Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai<span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px;"><br />
+</span>Email:&nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(0, 0, 255);">info@tolelight.com.vn</span><br />
+Copyright &copy; 2023&nbsp; - Nam Viet Plastic Co., Ltd. All rights reserved        </div>
+        <div class="col-xs-24 col-sm-6 col-md-6">
+            <p><img src="https://tolelight.com.vn/images/sanpham_35.jpg" width="27" height="17" /> Online : 3</p>
+            <p><img src="https://tolelight.com.vn/images/sanpham_39.jpg" width="42" height="20" /> Truy cập : 241,971</p>
+        </div>
+    </div>
+</div>        </div>
+      </div>
+    </div>
+  </div>
+</section></body>
+</html>
+
